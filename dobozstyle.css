@@ -1,0 +1,38 @@
+div{
+    margin: 6mm;
+    border: dotted 5pt burlywood
+}
+p {
+    background-color: cornsilk;
+    text-align: justify;
+    margin: 3mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    padding-left: 6mm;
+    padding-right: 6mm;
+    text-indent: 1.5cm;
+}
+.bal{
+    width: 70%;
+}
+.jobb{
+    width: 80%;
+    margin: auto;
+}
+.piros{
+    border-right: double 3mm darkred ;
+}
+.kek{
+    padding-bottom: 1cm;
+    border-left: blueviolet 1mm dashed;
+    border-bottom: blue 2mm dashed;
+}
+.pszoveg{
+    font-size: small-caps;
+    color: crimson;
+}
+.kszoveg{
+    font-style: Cambria;
+    font-weight: bolder;
+    color: dodgerblue;
+}
